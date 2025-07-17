@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@sentry/nextjs": "^9.39.0",
+    "@sentry/react": "^9.39.0"
+  }
+}
